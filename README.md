@@ -26,6 +26,6 @@ A binary file of approximately 700mb was used as the experimental dataset. It fo
 
 # Results
 
-You can run the code using /path-to-program- -v disk_sort <\input file> <\mem> <\block size> <\number of runs>. Essentially I designed it so I can experiment with different CPU memories, block sizes, and block sizes for each pair. 
+You can run the code using "<\path-to-program/> -v disk_sort <\input file/> <\mem/> <\block size/> <\number of runs/>". Essentially I designed it so I can experiment with different CPU memories, block sizes, and block sizes for each pair. 
 
 So it turns out that this sorting algorithm almost has the same runtime as C's provided sorting algorithms and Unix's sorting algorithm. 
